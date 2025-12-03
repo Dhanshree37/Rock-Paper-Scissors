@@ -35,6 +35,8 @@ Click a button, challenge the computer, and see who wins!
 
 ## 🌐 Live Demo
 
-👉  https://yourusername.github.io/rock-paper-scissors/
+👉  https://dhanshree37.github.io/Rock-Paper-Scissors/
+
+**Don't forget to try it 😊**
 
 ---
